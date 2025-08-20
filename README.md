@@ -14,4 +14,8 @@ This GitHub repository is associated with the following pre-print article:
 - [06. Defense-related genes expression patterns](06.%20Defense-related%20genes%20expression%20patterns.md)
 - [07. Pseudobulk differential expression analysis](07.%20Pseudobulk%20differential%20expression%20analysis.md)
 - [08. Gene co-expression network using hdWGCNA](08.%20Gene%20co-expression%20network%20using%20hdWGCNA.md)
-
+- [[09. Select fungal nuclei]]
+- [[10. Clean Seurat object for fungal analysis]]
+- [[11. Normalize and transform fungal dataset]]
+- [[12. Custer annotation of fungal dataset]]
+- [[13. Gene co-expression network analysis in fungal dataset]]
