@@ -1,6 +1,7 @@
 # Dual single-nucleus gene expression atlas of grapevine and *Erysiphe necator* during early powdery mildew infection
 
-This GitHub repository is associated with the following pre-print article: 
+This GitHub repository is associated with the following pre-print article:
+ 
 [Dual single-nucleus gene expression atlas of grapevine and *Erysiphe necator* during early powdery mildew infection](https://www.biorxiv.org/content/10.1101/2025.08.11.669584v1)
 
 
